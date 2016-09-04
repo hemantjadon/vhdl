@@ -40,6 +40,7 @@ begin
 
     assert false report "Testbench for half_adder complete.";
     wait;
+    
   end process;
 
 end architecture;
